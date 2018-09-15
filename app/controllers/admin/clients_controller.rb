@@ -1,4 +1,4 @@
 module Admin
-	class ClientsController < Fae::BaseController
-	end
+  class ClientsController < Fae::BaseController
+  end
 end
